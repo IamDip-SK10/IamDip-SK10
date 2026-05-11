@@ -2,7 +2,7 @@
 
 🎓 B.Tech Graduate in Information Technology  
 💼 Former Associate Software Engineer at Tech Mahindra  
-📊 Passionate about Business Analytics, BFSI, AI, Product Strategy & Digital Transformation  
+📊 Bridging Technology with Business Strategy through AI, Fintech & Analytics  
 🚀 Building real-world AI, fintech, analytics, and fitness platforms during my career transition
 
 ---
@@ -36,9 +36,8 @@ Enterprise-style AI-powered loan underwriting and credit risk analysis platform 
 
 ### Tech Stack
 Python • Pandas • NumPy • Scikit-learn • Streamlit • Machine Learning
-
-🔗 Repository:  
-https://github.com/IamDip-SK10/Loan-Project
+🔗 [Live Project](https://ai-loan-decision-dip.streamlit.app/)
+🔗 [Repository](https://github.com/IamDip-SK10/Loan-Project)
 
 ---
 
@@ -62,11 +61,9 @@ Advanced BFSI audit and intelligence platform focused on ESG compliance, AI frau
 ### Tech Stack
 HTML • CSS • JavaScript • Responsive UI • BFSI Strategy
 
-🔗 Live Project:  
-https://iamdip-sk10.github.io/finwithdip/
+🔗 [Live Project](https://iamdip-sk10.github.io/finwithdip/)
 
-🔗 Repository:  
-https://github.com/IamDip-SK10/finwithdip
+🔗 [Repository](https://github.com/IamDip-SK10/finwithdip)
 
 ---
 
@@ -85,11 +82,9 @@ Responsive fitness and calorie management web platform designed to help users tr
 ### Tech Stack
 HTML • CSS • JavaScript • Responsive Design
 
-🔗 Live Project:  
-https://iamdip-sk10.github.io/FitWithSubha/
+🔗 [Live Project](https://iamdip-sk10.github.io/FitWithSubha/)
 
-🔗 Repository:  
-https://github.com/IamDip-SK10/FitWithSubha
+🔗 [Repository](https://github.com/IamDip-SK10/FitWithSubha)
 
 ---
 
@@ -107,11 +102,9 @@ Modern responsive portfolio website showcasing projects, skills, certifications,
 ### Tech Stack
 HTML • CSS • JavaScript • Responsive UI
 
-🔗 Live Portfolio:  
-https://iamdip-sk10.github.io/subhadip-portfolio/
+🔗 [Live Portfolio](https://iamdip-sk10.github.io/subhadip-portfolio/)
 
-🔗 Repository:  
-https://github.com/IamDip-SK10/subhadip-portfolio
+🔗 [Repository](https://github.com/IamDip-SK10/subhadip-portfolio)
 
 ---
 
