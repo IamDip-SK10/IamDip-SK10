@@ -37,6 +37,7 @@ Enterprise-style AI-powered loan underwriting and credit risk analysis platform 
 ### Tech Stack
 Python • Pandas • NumPy • Scikit-learn • Streamlit • Machine Learning
 🔗 [Live Project](https://ai-loan-decision-dip.streamlit.app/)
+
 🔗 [Repository](https://github.com/IamDip-SK10/Loan-Project)
 
 ---
