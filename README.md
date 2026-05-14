@@ -126,15 +126,16 @@ Microsoft Azure • GitHub • Streamlit • Cloud Fundamentals
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 - Microsoft Azure Fundamentals (AZ-900)
-- Web Development
-- JavaScript
-- Google Analytics
+- HackerRank SQL (Advanced)
+- Web Development Certification
+- JavaScript Certification
+- Google Analytics Certification
 - Data Analyst – Big 4 Ready
-- Digital Marketing
-- Microsoft Excel
+- Digital Marketing Certification
+- Microsoft Excel Certification
 - Amazon FBA Product Launch (Case Study)
 
 ---
